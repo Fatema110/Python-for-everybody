@@ -13,6 +13,7 @@ Underline all of the conditional code
 
 Answer: Indent the line below the if statement
 
+
 Question 2
 Which of these operators is not a comparison / logical operator?
 =
